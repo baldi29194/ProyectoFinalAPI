@@ -1,0 +1,164 @@
+Request method:	POST
+,Request URI:	https://todo.ly/api/user.json
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+HHeaders:		Authorization=Basic anVhbmxhcmExMjM0QGdtYWlsLmNvbToxMjM0NTY3
+				Accept=*/*
+1				Content-Type=text/plain; charset=ISO-8859-1
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+P{"Email":"juanlara1234@gmail.com","FullName":"juan lara","Password":"1234567"}
+HTTP/1.1 200 OK
+4Cache-Control: no-cache, no-store, must-revalidate
+Pragma: no-cache
+/Content-Type: application/json; charset=utf-8
+Expires: -1
+Server: Microsoft-IIS/8.0
+XSet-Cookie: ASP.NET_SessionId=vrpiyqg2d4xwrr5ruuolmpvu; path=/; HttpOnly; SameSite=Lax
+X-AspNetMvc-Version: 2.0
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+%Date: Mon, 24 Oct 2022 05:16:35 GMT
+Content-Length: 296
+
+{
+    "Id": 706697,
+'    "Email": "juanlara1234@gmail.com",
+    "Password": null,
+    "FullName": "juan lara",
+    "TimeZone": 0,
+    "IsProUser": false,
+!    "DefaultProjectId": 4031658,
+"    "AddItemMoreExpanded": false,
+&    "EditDueDateMoreExpanded": false,
+    "ListSortType": 0,
+    "FirstDayOfWeek": 0,
+    "NewTaskDueDate": -1,
+*    "TimeZoneId": "Pacific Standard Time"
+}
+Request method:	GET
+,Request URI:	https://todo.ly/api/user.json
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+HHeaders:		Authorization=Basic anVhbmxhcmExMjM0QGdtYWlsLmNvbToxMjM0NTY3
+				Accept=*/*
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+4Cache-Control: no-cache, no-store, must-revalidate
+Pragma: no-cache
+/Content-Type: application/json; charset=utf-8
+Expires: -1
+Server: Microsoft-IIS/8.0
+XSet-Cookie: ASP.NET_SessionId=be2yz1mdadiew5ralh1iuhzi; path=/; HttpOnly; SameSite=Lax
+X-AspNetMvc-Version: 2.0
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+%Date: Mon, 24 Oct 2022 05:16:38 GMT
+Content-Length: 296
+
+{
+    "Id": 706697,
+'    "Email": "juanlara1234@gmail.com",
+    "Password": null,
+    "FullName": "juan lara",
+    "TimeZone": 0,
+    "IsProUser": false,
+!    "DefaultProjectId": 4031658,
+"    "AddItemMoreExpanded": false,
+&    "EditDueDateMoreExpanded": false,
+    "ListSortType": 0,
+    "FirstDayOfWeek": 0,
+    "NewTaskDueDate": -1,
+*    "TimeZoneId": "Pacific Standard Time"
+}
+Request method:	POST
+3Request URI:	https://todo.ly/api/user/706697.json
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+HHeaders:		Authorization=Basic anVhbmxhcmExMjM0QGdtYWlsLmNvbToxMjM0NTY3
+				Accept=*/*
+1				Content-Type=text/plain; charset=ISO-8859-1
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{"Email":"demo123@gmail.com"}
+HTTP/1.1 200 OK
+4Cache-Control: no-cache, no-store, must-revalidate
+Pragma: no-cache
+/Content-Type: application/json; charset=utf-8
+Expires: -1
+Server: Microsoft-IIS/8.0
+XSet-Cookie: ASP.NET_SessionId=pctijcva4dpkf0kgwn1ivef5; path=/; HttpOnly; SameSite=Lax
+X-AspNetMvc-Version: 2.0
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+%Date: Mon, 24 Oct 2022 05:16:39 GMT
+Content-Length: 291
+
+{
+    "Id": 706697,
+"    "Email": "demo123@gmail.com",
+    "Password": null,
+    "FullName": "juan lara",
+    "TimeZone": 0,
+    "IsProUser": false,
+!    "DefaultProjectId": 4031658,
+"    "AddItemMoreExpanded": false,
+&    "EditDueDateMoreExpanded": false,
+    "ListSortType": 0,
+    "FirstDayOfWeek": 0,
+    "NewTaskDueDate": -1,
+*    "TimeZoneId": "Pacific Standard Time"
+}
+Request method:	DELETE
+3Request URI:	https://todo.ly/api/user/706697.json
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+DHeaders:		Authorization=Basic ZGVtbzEyM0BnbWFpbC5jb206MTIzNDU2Nw==
+				Accept=*/*
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+4Cache-Control: no-cache, no-store, must-revalidate
+Pragma: no-cache
+/Content-Type: application/json; charset=utf-8
+Expires: -1
+Server: Microsoft-IIS/8.0
+XSet-Cookie: ASP.NET_SessionId=2zjkhlgbtckzk0yodobgumnr; path=/; HttpOnly; SameSite=Lax
+X-AspNetMvc-Version: 2.0
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+%Date: Mon, 24 Oct 2022 05:16:41 GMT
+Content-Length: 291
+
+{
+    "Id": 706697,
+"    "Email": "demo123@gmail.com",
+    "Password": null,
+    "FullName": "juan lara",
+    "TimeZone": 0,
+    "IsProUser": false,
+!    "DefaultProjectId": 4031658,
+"    "AddItemMoreExpanded": false,
+&    "EditDueDateMoreExpanded": false,
+    "ListSortType": 0,
+    "FirstDayOfWeek": 0,
+    "NewTaskDueDate": -1,
+*    "TimeZoneId": "Pacific Standard Time"
+}
